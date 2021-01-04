@@ -1,3 +1,2 @@
 # hello-world
-learning github working
-upcoming MSIS student
+learning github working ;)
